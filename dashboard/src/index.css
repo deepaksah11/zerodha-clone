@@ -724,7 +724,7 @@ hr {
   display: none;
 }
 
-.actions span button {
+.actions button {
   width: 40px;
   height: 30px;
   border-radius: 4px;
